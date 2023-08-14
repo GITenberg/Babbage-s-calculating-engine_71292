@@ -1,0 +1,29 @@
+_repo: Babbage-s-calculating-engine_71292
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Babbage, Charles
+    birthdate: 1791
+    deathdate: 1871
+    gutenberg_agent_id: '556'
+    url: http://www.gutenberg.org/2009/agents/556
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Babbage
+description: ''
+gutenberg_issued: '2023-07-28'
+identifiers:
+  gutenberg: '71292'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000530182
+pgterms:marc905: 20230702035807babbage
+pgterms:marc906: '1834'
+pgterms:marc907: gb
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library)
+publication_note: '  $aUnited Kingdom :$bAdam and Charles Black, $c1834.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Babbage's calculating engine
+url: http://www.gutenberg.org/ebooks/71292
